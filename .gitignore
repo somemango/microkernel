@@ -1,5 +1,5 @@
-.o
-.bin
-.cbp
-.depend
-.layout
+*.o
+*.bin
+*.cbp
+*.depend
+*.layout

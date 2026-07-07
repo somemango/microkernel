@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776464989 source:/home/mau/Documents/prueba/main.cpp
+	<iostream>
+
+1776921289 source:/home/mau/Documents/prueba/kernel.cpp
+	"funciones.h"
+
+1776920442 /home/mau/Documents/prueba/funciones.h
+
